@@ -1,5 +1,48 @@
 # PhotoApp
 
+# Angular Photo Gallery App
+
+This is a simple Angular application that fetches photos from the JSONPlaceholder API and displays them in a responsive grid layout with infinite scrolling.
+
+## Table of Contents
+
+- [Features](#features)
+- [Technologies](#technologies)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Running the App](#running-the-app)
+- [Testing](#testing)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- Fetches photos from the JSONPlaceholder API.
+- Displays photos in a responsive grid.
+- Implements infinite scrolling to load more photos as the user scrolls down.
+- Includes unit tests for components and services.
+
+## Technologies
+
+- Angular 18
+- TypeScript
+- HTML
+- CSS
+- RxJS
+
+## Prerequisites
+
+- Node.js (v16 or later recommended)
+- npm (or yarn)
+
+## Installation
+
+Clone the repository:
+   ```bash
+   git clone <repository-url>
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.4.
 
 ## Development server
@@ -25,3 +68,5 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+
