@@ -8,7 +8,7 @@ This is a simple Angular application that fetches photos from the JSONPlaceholde
 
 - [Features](#features)
 - [Technologies](#technologies)
-- [Prerequisites](#prerequisites)
+- [Prerequisites](#prerequisites)nc
 - [Installation](#installation)
 - [Running the App](#running-the-app)
 - [Testing](#testing)
@@ -18,7 +18,7 @@ This is a simple Angular application that fetches photos from the JSONPlaceholde
 
 ## Features
 
-- Fetches photos from the JSONPlaceholder API.
+- Fetches photos from the JSONPlaceholder API. // Here we used on scroll but to optimize efficiently we can use pagination or server side rendering
 - Displays photos in a responsive grid.
 - Implements infinite scrolling to load more photos as the user scrolls down.
 - Includes unit tests for components and services.
